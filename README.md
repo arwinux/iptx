@@ -23,11 +23,3 @@ Iptx (IP Tool X) is an complete IP calculator built in Python with a beautiful G
  <img src="PVS/ppic.gif">
 </kbd>
 
-
-# Author
-- Github: [@Ayminjf](https://github.com/Ayminjf)
-- Twitter: [@Ayminjf](https://twitter.com/Ayminjf)
-
-
-
-
